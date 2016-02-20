@@ -1,5 +1,6 @@
 # mcast
-UDP连接及UDP广播，组播的实现服务器程序
+UDP connection and UDP broadcast, multicast to achieve the server program
+
 
 
 >TODO
